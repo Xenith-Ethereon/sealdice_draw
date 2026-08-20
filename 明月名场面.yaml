@@ -1,10 +1,10 @@
 name: 明月名场面
 author: 星淆Xenith&明月的朋友们
-version: 3.2
-license: CC-BY-SA-4.0
+version: 3.3
+license: MIT
 desc: 记录明月曾经说出的各种诡异语录,可使用.send向骰主提交明月说过的更多诡异语录，持续更新中。/ps:我写这个牌堆主要是因为看到明月在玩coj名场面，所以突发奇想有了这个。
 update_urls:
-  - 'https://cnb.cool/CannedFish/SealDice_draw/-/git/raw/main/%E6%98%8E%E6%9C%88%E5%90%8D%E5%9C%BA%E9%9D%A2.yaml'
+  - 'https://raw.githubusercontent.com/Xenith-Ethereon/sealdice_draw/refs/heads/main/%E6%98%8E%E6%9C%88%E5%90%8D%E5%9C%BA%E9%9D%A2.yaml'
 command:
 
 明月名场面:

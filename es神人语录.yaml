@@ -1,10 +1,10 @@
 name: es神人语录
 author: 星淆Xenith&明月&偶像们
-version: 1.0
-license: CC-BY-SA-4.0
+version: 1.1
+license: MIT
 desc: 记录es神人语录中的神人语录
 update_urls:
-  - ''
+  - 'https://raw.githubusercontent.com/Xenith-Ethereon/sealdice_draw/refs/heads/main/es%E7%A5%9E%E4%BA%BA%E8%AF%AD%E5%BD%95.yaml'
 command:
 
 es神人语录:
