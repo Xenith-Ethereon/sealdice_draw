@@ -1,0 +1,2 @@
+# sealdice_draw
+星淆Xenith的海豹核心牌堆并允许联网更新牌堆
