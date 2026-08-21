@@ -1,10 +1,10 @@
 name: es说点怪话
 author: 星淆Xenith&明月&偶像们
-version: 1.2
+version: 1.4
 license: MIT
 desc: 记录es中的神人语录
 update_urls:
-  - 'https://raw.githubusercontent.com/Xenith-Ethereon/sealdice_draw/refs/heads/main/es%E7%A5%9E%E4%BA%BA%E8%AF%AD%E5%BD%95.yaml'
+  - 'https://raw.githubusercontent.com/Xenith-Ethereon/sealdice_draw/refs/heads/main/es%E8%AF%B4%E7%82%B9%E6%80%AA%E8%AF%9D.yaml'
 command:
 
 es说点怪话:
